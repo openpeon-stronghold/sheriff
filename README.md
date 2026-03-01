@@ -53,6 +53,10 @@ The `sounds/extras/` folder contains all remaining voice lines from The Sheriff 
 | sh_vict_02.wav | victory |
 | sh_vict_03.wav | victory |
 
+## Generic speeches
+
+Additional shared speech lines (neutral, aggressive, and submissive villain personalities) used across Stronghold Crusader lords are archived at [openpeon-stronghold/stronghold-generic-speeches](https://github.com/openpeon-stronghold/stronghold-generic-speeches). Useful as filler or inspiration when remixing this pack.
+
 ## Copyright
 
 Voice lines © Firefly Studios. Distributed for personal notification use under fair use.
