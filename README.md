@@ -6,6 +6,8 @@
 
 The Sheriff sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Sheriff in Stronghold Crusader.
 
+The Sheriff is a corrupt, grasping villain who abuses every scrap of authority he holds. Greedy beyond reason and contemptuous of those beneath him, he collects taxes like tributes and treats justice as a commodity — all while hiding his cruelty behind a thin veneer of official legitimacy.
+
 ## Install
 
 ```bash
